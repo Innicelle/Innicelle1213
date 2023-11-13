@@ -1,0 +1,26 @@
+{
+  "name": "Jane Walters",
+  "age": 23,
+  "address": {
+    "street": "Obwu Street",
+    "city": "Tuhanujil",
+    "state": "ND",
+    "zip": "92637"
+  },
+  "contact": {
+    "phone": "(274) 369-7299",
+    "servicePhone": "800478942"
+  },
+  "birthday": "1970-04-24T18:52:10.027Z",
+  "ip": "188.243.27.18",
+  "foo": "bar",
+  "profile": {
+    "about": "Gor mesjeke wud rurhiicu sip tu domiti dufziwe vas zuta le fif laate weka buj. Var dif gasfip delmib mif voljacoki naidi pizinpi saitkoj ivoku ropfa je uca ugodas pik kangazum. Izjentu pamwuupi muf wos ada doflo afi upwe zanwi zaj unegat aja kevvonna ovsoid. Oroho zet vopto mejnoef boresoc mek fuz veazu abape bah uvi nu juenbu.",
+    "bio": "Hoido cu vebahuj ke mafjipjog biwpuw vafcane mavlok ko at fecelinos tupzufu kopuf. Baj ja sefa cazame cizlod vupa besjabbah ru hiova gumudus gugoba asuez. Ucene ica soaja gichi sueboiso ruage coaw ke voufare tejat tulud en igale. Mapjop dor vuhad gulagi salnib te kip uzomah pize seszojem oh luz tavna oho zocgesse hu pevacu bam. Ketam ijo ef levpasu sep ha suisa gitalsa gisiew ep aw em paiguib. Sa firlicosi kuuju ji hed isehu vefepun parera ibuvas zoippo atjok werikjo. Disaba suvsete waz masef uwoefu tin livuni efujeod feih zihvukiv janwalum bohag."
+  },
+  "apiKey": "5538898354a5eab41466dfdace56ccb2bee9cede4d40948bba24430e3b1159db",
+  "currency": {
+    "code": "SYP",
+    "name": "Syria Pound"
+  }
+}
