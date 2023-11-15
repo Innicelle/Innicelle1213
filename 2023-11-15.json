@@ -1,0 +1,26 @@
+{
+  "name": "Mitchell Boone",
+  "age": 30,
+  "address": {
+    "street": "Dafni Pike",
+    "city": "Hanonoci",
+    "state": "PA",
+    "zip": "23849"
+  },
+  "contact": {
+    "phone": "(657) 406-4618",
+    "servicePhone": "800155481"
+  },
+  "birthday": "1998-02-11T03:44:57.473Z",
+  "ip": "156.47.25.93",
+  "foo": "bar",
+  "profile": {
+    "about": "Buwo sukroc cur pujpokcud bernes lohig we tohdu ifukul bike vumucapih pit. Sibiweg iwi mamoac rotdaffo do paenu bej usa gu kaptemub begsaica zaze. Imowam uvaewa us wowuc asowa iji jevel hok roukoni begpom coojo udoklu.",
+    "bio": "Zarnuwwi supwowhu vih parobek ohi radraku ep pebuhoku munzer bo suhire tovad vo si wo zun gehek. Apo hubajem ma tecpa cow ok guw bonecse ipoute tus tacpem apurik nojeive ve awena gih fuwotpob. Awusar hoku ef owmi du avaluses riwewte biuce boheg cemci zuddultij werejtu jozihin."
+  },
+  "apiKey": "e988dcea85881b5a4ec493df6d9dd62be453f41c7ecc733c3e551eb66e928022",
+  "currency": {
+    "code": "KYD",
+    "name": "Cayman Islands Dollar"
+  }
+}
