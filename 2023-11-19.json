@@ -1,0 +1,26 @@
+{
+  "name": "Lela Gray",
+  "age": 21,
+  "address": {
+    "street": "Tobaw Turnpike",
+    "city": "Lafograh",
+    "state": "WV",
+    "zip": "86670"
+  },
+  "contact": {
+    "phone": "(687) 855-3894",
+    "servicePhone": "800956495"
+  },
+  "birthday": "1983-04-25T21:41:07.138Z",
+  "ip": "102.75.225.123",
+  "foo": "bar",
+  "profile": {
+    "about": "Gapi pefain se solol emo bibho azhidge idokizba riset fior wure haf cu jeumo wem. Tudjate jisebe leja tib valpog etohavbuf kov miw semavimi jiz zobo zojarem efugne guad uro. Rahekbuh jejbogis vumtanake be biz ovbo punboej ig tizsusur kompe ler umuhe co lifukiwu. Ruazho ecdog eti low moapusek osib pawkek net pivijan bopam deogi lulun. Ureinpap kekinli boboehu ginecgak ogo bodadhu mewkeh kuninkez fot su zifavire jev demedu suw ibi opu ancokte.",
+    "bio": "Oddo hic di nedda ef habzieca ap hubagtom fo leafdum fisamac wizvuknok noscuite ramge wew moneg mec. Romenu gecugsag jonicwid pufuw retzemrik heakoola pekkujcow opzubig imkam jo lavge vahlol gueba cokwomtoz. Ka fi umaizo harku dir ibajub muse zi resuc ohihiju molupdu jo rebi wovfulev."
+  },
+  "apiKey": "0a9c8a3d49dffb69064578f4b8b410a01ddaca3e82138befbe47ce1a94eb0883",
+  "currency": {
+    "code": "USD",
+    "name": "United States Dollar"
+  }
+}
