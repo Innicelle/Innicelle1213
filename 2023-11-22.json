@@ -1,0 +1,26 @@
+{
+  "name": "Dean McCormick",
+  "age": 22,
+  "address": {
+    "street": "Funkem Street",
+    "city": "Panimbi",
+    "state": "KY",
+    "zip": "40874"
+  },
+  "contact": {
+    "phone": "(935) 565-3633",
+    "servicePhone": "800734953"
+  },
+  "birthday": "1994-10-05T08:10:32.959Z",
+  "ip": "246.219.108.165",
+  "foo": "bar",
+  "profile": {
+    "about": "Evunisze ned da nutan oligno tij tatuho omsopmuk dafokez ba donojgov cillikbu zi sipi nijpivu pap. Kewbogpow ev wuf fan keuge fogusel nehpu wufubfeh vir ugoapwo wurko ufu. Pir lokzalfuk tun olutefo muw roolohof im vuud wi ves he puglebpit juv pinegeja gaga buglaveb hof gujutop.",
+    "bio": "Aclapop itjoh utowaf usnawcin oli togkibfaf okawu mara du mabaro essuzsa tegcipik de pus pewe elodif. Bolcag jam luvi koj legerowoc kuj nuwurac ije kid da firciw dudo ki berwop ev ihho buote. Rew lovid ahi buj nij ve bimapin cusni liehwu puewe ib icgiv sif."
+  },
+  "apiKey": "295b71fb3fafde930f55d89001559f1420fdb49eb0f91018057d546c0f28169f",
+  "currency": {
+    "code": "LRD",
+    "name": "Liberia Dollar"
+  }
+}
