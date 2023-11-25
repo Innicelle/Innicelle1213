@@ -1,0 +1,26 @@
+{
+  "name": "Leon Knight",
+  "age": 22,
+  "address": {
+    "street": "Nofili Plaza",
+    "city": "Hedunze",
+    "state": "NV",
+    "zip": "38321"
+  },
+  "contact": {
+    "phone": "(984) 608-6908",
+    "servicePhone": "800931173"
+  },
+  "birthday": "1999-02-23T05:42:21.016Z",
+  "ip": "81.171.244.59",
+  "foo": "bar",
+  "profile": {
+    "about": "Fo wal vecweso pohkirezo dono opovurif hanod sig ep domderzi ki lufboute saj ejakum asuubizob. Neticcu izevu tuej batah ure izmama sevkur zuw tona henuc eki anune ujudaf efel zaol. Bupwuab oj rodev hizko melamuh nojruridi zercap wizistu te nug vulma ba fovecab bigul cafop egtezza jec.",
+    "bio": "Gaig em tila bil lunti ven cufasu fetar ohebahij podic odfavu fofaolu. Zotawet alsiled ma lot figik hatiwun upalu ni rohmav parzemu hus ocfar fejuupi lagto icjepe. Nopiksev po ge wakoczi et paczecuf kib zic utduku rovhi halej etulipen tevigel. Vew jo iggod wu cac lov fubih tic ij in tot uhisehhi ocuideisu vehuz nohdirrab humfobne arsin."
+  },
+  "apiKey": "07805cf1be2848987115c4c63c70a74b24c5f313b9925d58098efb42a256c4e9",
+  "currency": {
+    "code": "CUP",
+    "name": "Cuba Peso"
+  }
+}
