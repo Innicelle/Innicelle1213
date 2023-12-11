@@ -1,0 +1,26 @@
+{
+  "name": "May McGee",
+  "age": 19,
+  "address": {
+    "street": "Necze Park",
+    "city": "Pidelan",
+    "state": "NJ",
+    "zip": "40940"
+  },
+  "contact": {
+    "phone": "(376) 390-3731",
+    "servicePhone": "800818259"
+  },
+  "birthday": "1961-02-20T21:28:43.303Z",
+  "ip": "7.38.118.200",
+  "foo": "bar",
+  "profile": {
+    "about": "Rori wuseg eba te govi rocgoelu ecwojat tu julhog hojmepus ruze waceew fer batupi teemjem zojvih fulusna geszur. Ne fuwa le ur egi jojatu dahfihi ajijar bu mod ma toned vowvama si udapo fafkumu niko. Vikoftev mazok pabwome lag suwapo nowihhej pir ewedek osiduk rupig doza ezsak rise.",
+    "bio": "Cu erof oca sotmamu leg akuape so pe nopel hi hup ilipi dizut pojbutdib nesi vutmeho lesdojiv. Imleoj feditece regaw icuevrik ofo bauvija zep poknu hakromci gim caru fanasej. Hebutnug tigkoazi cugjotas uc ki jo hu hal sucvagin ku sojigci wojhownow ro keg hukkuhton."
+  },
+  "apiKey": "3e28197f832fdfff77bcdc684f54f08cbcea7d587c9eb3fd0a42c6c2e519ccd6",
+  "currency": {
+    "code": "GYD",
+    "name": "Guyana Dollar"
+  }
+}
