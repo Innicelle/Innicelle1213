@@ -1,0 +1,26 @@
+{
+  "name": "David Lopez",
+  "age": 26,
+  "address": {
+    "street": "Dowbil Boulevard",
+    "city": "Sanihkim",
+    "state": "MI",
+    "zip": "53274"
+  },
+  "contact": {
+    "phone": "(281) 542-3969",
+    "servicePhone": "800844285"
+  },
+  "birthday": "1987-03-05T00:23:30.592Z",
+  "ip": "213.198.36.138",
+  "foo": "bar",
+  "profile": {
+    "about": "Edam ezohomelo ko af fub jewev finel epemu zeibbaw tuf ilbucveb osuosehav fe giiri pibubo. Dibi sebefsob unrul jis ovo dasdafej te nagfizaz epviur luzofar zohotis acomut zijwo booh be zij ufzo dek. Eguul fi cahlotit gamijat wudu kele zebifon re uv jakefmi gihin cokcibuc. Elajof bin sejafpi we osvefpuk bivnul eh tu opuco ebe atafal naja reb dando je ge. Nutvo aku odkuftij abuped ca sobi giumu mip fejumud ilukajzaf rod visidab guz dij sobjaf ne gez waguh.",
+    "bio": "Ehmeg mueja hoj budijbu vef gerku doohuda kumuj cu law fo nab vuj orko. Otinasi kame fucwow izifan uwiweluj zijzaba izoorzef toodako neekebuj ruzoc mes lari. Al ba jilgud raobu dozi kutatiova hogefiac seh femsugal ded ukmo areti. Wat kem upva pi da avcewi wurezuh ricueb luzi ahu bebkib ru josevof lazwih rodob jasmivu owoejupi."
+  },
+  "apiKey": "3cc74768add011f2488e72b236f0f3b189be34013b7b1943e2178e5c10876753",
+  "currency": {
+    "code": "VEF",
+    "name": "Venezuela Bolivar"
+  }
+}
