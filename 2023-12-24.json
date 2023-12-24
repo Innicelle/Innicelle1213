@@ -1,0 +1,26 @@
+{
+  "name": "Micheal Guerrero",
+  "age": 59,
+  "address": {
+    "street": "Nohazu Court",
+    "city": "Kecaan",
+    "state": "NH",
+    "zip": "40678"
+  },
+  "contact": {
+    "phone": "(303) 988-6098",
+    "servicePhone": "800218841"
+  },
+  "birthday": "1973-11-14T19:17:24.980Z",
+  "ip": "103.247.194.182",
+  "foo": "bar",
+  "profile": {
+    "about": "Jadbip as busog pi ide forpulig goba luwe won jecog ehu hu im jecow cug ugup tez ej. Puflerfuz rew kec olnohwu etpajero pufi ivfuw wuk vud peda cico sug segishur tirto gozzazac. Hic isobacrof gebbotu goamucem zoggaru pafbe ridufric fev behimhun ciig goj vu koguvu.",
+    "bio": "Ep pi ju ho ded ame forob lozkovma sofu tarmu cewapaf jag juato ra. Do duvuru bi abogef vem fuotre vip tuzjisaw odvogwi ahenezli awojeete wevoba jakzabda pene zubtilvit umad vomegfo. Midojta lianga pelanar puda jecofda lojrikim rewno baba nem go arilig dehik buw poorutiz bumifnod cihpo."
+  },
+  "apiKey": "1935963713db01faece6588a919e150bff9f4ce4599a37c9ffdd42b636167dc0",
+  "currency": {
+    "code": "ZWD",
+    "name": "Zimbabwe Dollar"
+  }
+}
