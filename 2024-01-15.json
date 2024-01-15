@@ -1,0 +1,26 @@
+{
+  "name": "Lois Cole",
+  "age": 48,
+  "address": {
+    "street": "Hahi Place",
+    "city": "Nivparmet",
+    "state": "NJ",
+    "zip": "04615"
+  },
+  "contact": {
+    "phone": "(669) 972-2202",
+    "servicePhone": "800288556"
+  },
+  "birthday": "1959-01-03T23:49:50.807Z",
+  "ip": "82.199.73.180",
+  "foo": "bar",
+  "profile": {
+    "about": "Te kog rinpodic du pahin tawwitiz va fiwramuv epgel doeb ewu fo. Piwimo ezo tooh zabfollu bus mub la pat worbipu gubik ujbovgan fi mu vestovi furfuh muva otukon tik. Ari tuh ku bat dim jitew ga beewo compin keuvupu obgiz we dudu. Ipahifof kebsuc ge sotwolam gecnot umcujziz soforcof nocoka ura zohvihpi fuerulut getlonfun kob rorbuken nuiv ob hatvaw hotuz. Toretla samluf esfu lu usahohut sepde se jodo lo utuhic tuc favgoovu. Ukafa poiwsar fak zoro mesumfu zij aj fumuhe olvulac tu culaso feniw zopsikel ovirupwi voimjup mosdujo. Dawe mesacme runevi wusa pegunem ripussag bu jonipmaw se ijeama kegfu zezbe emkow ir elopooz.",
+    "bio": "Go tag tame vi winekre ejdeisu dakjaswup denolli bova ise buw kor. Eliwop se koffuh reg reifa hupinnup wurvu to tebju acuaculuk ik fosnisi hi hioc bareto. Mofuhmeh pan uto pe kulekeeco baspiha kof acu he kubuwo meifsof filo fove ohe itecasruz igpu if ufgiz. Tabnowgij elo tipge orolilu ubo ka fanvi nalcu hev vurvoce muhucwil isedi aweuj za lulhorja do gim. Ukizuzwe vaacem helupfod garuvwo bu sakto faoswe azduvlur cufnusdo ladewfo ve wu ciipiti vovhuffir niozivec kifa esepe etiob."
+  },
+  "apiKey": "1edf4d72299e4b6a1b3b01a74dc75c0e4391f6af3f73b9d0392ab18d79b6738f",
+  "currency": {
+    "code": "AOA",
+    "name": "Angola Kwanza"
+  }
+}
