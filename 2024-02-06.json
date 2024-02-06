@@ -1,0 +1,26 @@
+{
+  "name": "Lois Hill",
+  "age": 31,
+  "address": {
+    "street": "Warar Drive",
+    "city": "Gofenzug",
+    "state": "MI",
+    "zip": "77256"
+  },
+  "contact": {
+    "phone": "(272) 763-7608",
+    "servicePhone": "800976282"
+  },
+  "birthday": "2000-09-23T23:45:56.403Z",
+  "ip": "60.89.145.124",
+  "foo": "bar",
+  "profile": {
+    "about": "Dizum modlava sahzaj cikil baisuba col wevas liczofo cer vad ni cato fe muesji mibgek cocobi. Waf bor ag ejomet foguiv ciccoke po apihazo coh dep guz cojowa vajtujvup ejzofeca pak. Bujol muju satfahku rumga porebeta nonsisi kikehog leg olpo rep ulfe lorot wozzav la habjapos vu defsel wibco. Meuctat bod es lafuv ragne vaefa ugiga vekfeda ab somizebo mizito isalasteh gacifsa.",
+    "bio": "Vi sawwe azu vonaf gabugbu tul mecapvar sut afu hok radmebce fupzihor. Corpone od wazka sitse uzu rin jum vupu cel hovbu napaj kawa erorof bewabefi mil. Maveso zo cedfuz gip rabpulpah wes dom gopiwu fujhihgur curjizil dav tagurur cugmas al deofofa loj dupepas ponle. Becergej uru woase dejig ba vu la voze tafob fanez vazad cujeap niepo nuwalpo pev kogizso wice ro. Mimikube bufrih ubiloj mapiztej ziopugo socos kot gavvuwi hinko ciscesbi wuwga uma ilaguja gut sede ohuletpef li."
+  },
+  "apiKey": "f53c1351138a3ddc861fb6ddc8fcb945a0125bdf7434db19e688a560657dd9b9",
+  "currency": {
+    "code": "VEF",
+    "name": "Venezuela Bolivar"
+  }
+}
