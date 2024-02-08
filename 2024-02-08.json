@@ -1,0 +1,26 @@
+{
+  "name": "Albert Sparks",
+  "age": 20,
+  "address": {
+    "street": "Tico Circle",
+    "city": "Kunildof",
+    "state": "NM",
+    "zip": "81132"
+  },
+  "contact": {
+    "phone": "(754) 926-8359",
+    "servicePhone": "800356243"
+  },
+  "birthday": "1985-11-22T00:27:30.444Z",
+  "ip": "228.96.129.114",
+  "foo": "bar",
+  "profile": {
+    "about": "Dazamut vassomec hifpa mon sav uj ibpu goozuhis jov unavet hovhemuri pupbeb unu oj me. Febod varefioke tab mi kisfu faufur roetti gu catko buol igon kamewi ebu con. Pel cogko cizenwo pinen isorun paefa hukon tubzi hok naruh cak ocaumiofo wo ozhubfo vuzwo idefegi la no.",
+    "bio": "Fokuc pih tu aje weldam ba rito niep aztezi ci ki wid dafete juam pojutih edjari pihpuw. Dil nozomno povkap piikdav ha lubpi ogira azafolpeh ovniwak hemnuz nanduh ranoda mudpemub upa cip juisa ve. Bevogu fohvekana jusacsak nuczenegu nono uc gobsesep suhkuh fecapva jihabiva buzpaz ewo al zol jas leblof migioru uhenulfum. Tovdun nad di toces osnoc gajwihe zuj cipited ro ruh ahabe hevitu jauv kefek. Vukojgir we afbi to coruv suc moh bil sapvet to odake geka top. Mup foeg punje tes wurfeh nos vazpezuk cukhoaju zecnor ej lohdo tol zeju iveidaiw."
+  },
+  "apiKey": "930b3dc8db9aae9e9b3473e7367bd635a6a0550352b3b63e27c4e43d20971df9",
+  "currency": {
+    "code": "PGK",
+    "name": "Papua New Guinea Kina"
+  }
+}
