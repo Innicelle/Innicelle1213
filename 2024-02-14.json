@@ -1,0 +1,26 @@
+{
+  "name": "Fanny Ortega",
+  "age": 61,
+  "address": {
+    "street": "Ubwe Pike",
+    "city": "Pecobe",
+    "state": "LA",
+    "zip": "05860"
+  },
+  "contact": {
+    "phone": "(785) 845-3104",
+    "servicePhone": "800277334"
+  },
+  "birthday": "2002-09-27T00:31:06.991Z",
+  "ip": "123.217.237.244",
+  "foo": "bar",
+  "profile": {
+    "about": "Ibdu usiep lenuspe umuvi cu wif ippij keduczo ces dilet garsijo rif ezubunlih an sut zig. Vunpadu razni kaur rezheweno muojaf co fusa jo vejup gunhetu netdukag samaroj raja da. Ag lawa tadaliw tej dihmarse garcu nizsuwuh nietor ju vol cood dusam leko ju kieg focwukod. Eb jik finmuv izupesne nevma aju latu ro fazus vihinih zesadeso bu led ameminzil wude maf kinle tu.",
+    "bio": "Veti op ozhiblek zuwu ji nejloso pijgor ba vu cefvilgu izpec opafatde zuriko zuoli ri do gutaem nu. Jawuv fagusa nugizaje olasi il asujetgu ittumap imufawlu mudbebmib ba lukfelaw ofo fuw zeki iv wina. Tucuwod ezuega sireco owedo pohuvaab not nivwal az ob be wozbudta kedeshej depmi apuse."
+  },
+  "apiKey": "2dfe6567484aa8a8b9ab102666860cbd8d27ce4c888ea23a9310b492db379d48",
+  "currency": {
+    "code": "CDF",
+    "name": "Congo/Kinshasa Franc"
+  }
+}
