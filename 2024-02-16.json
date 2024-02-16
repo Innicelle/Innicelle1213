@@ -1,0 +1,26 @@
+{
+  "name": "Miguel Rice",
+  "age": 19,
+  "address": {
+    "street": "Vurvul Grove",
+    "city": "Guwluruz",
+    "state": "MI",
+    "zip": "95619"
+  },
+  "contact": {
+    "phone": "(832) 396-2900",
+    "servicePhone": "800863142"
+  },
+  "birthday": "1959-05-24T08:28:20.457Z",
+  "ip": "180.218.221.66",
+  "foo": "bar",
+  "profile": {
+    "about": "Or divagu obibubik eg onmaido norfu kogped kacuza etocav ifo je gizbober. Duji hadosoz ligoc neahe kej mo niriwa omtekuva ef mi nelukze jajat ibi. Su tigi irodu acdojuv fuop latzijik zemosa ev nipko cizdu fun noebu peconuwi vuvlun.",
+    "bio": "Botog nawjabvaj cespozkuh zeweza vuk jeplov latjil mi if ohdagam vam zemiko. Asuv bulibez ugi gupik buzal tobup polkisgus usciam udsob iwe ki fihfaac uzo. Jove diob bitlegla nepvos pumdahca rortu ewivohgaz bupdo nigkeav na wakpi tud soguhmid."
+  },
+  "apiKey": "bdba90c96e9e5486c1aa244be4f7fc613df411b8c1d138572d6873d5f39e58ef",
+  "currency": {
+    "code": "RWF",
+    "name": "Rwanda Franc"
+  }
+}
