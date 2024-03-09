@@ -1,0 +1,26 @@
+{
+  "name": "Hettie Adams",
+  "age": 45,
+  "address": {
+    "street": "Geer Place",
+    "city": "Cuneoka",
+    "state": "ME",
+    "zip": "07075"
+  },
+  "contact": {
+    "phone": "(337) 451-1926",
+    "servicePhone": "800613163"
+  },
+  "birthday": "2005-05-22T15:56:04.344Z",
+  "ip": "252.154.43.78",
+  "foo": "bar",
+  "profile": {
+    "about": "Ape fi pab tacfa gopmu etakfa unajaoza cegmiw fejwe we vodsilge mogacuges cavanomo jajgic zessoho rij jo fesosakez. Mawi van coho nerarhe jifo puk wadumod duh ga umevu lefzim pu kunnebuw go na azivimuk nuj. Ud zewkas cohefbo hocemufo la tepkugoc ojare vonahuti peupisec ki mehemsap webo. Caofjaj kiluw ekitbub izehozto gehabhi pu vob deta avoodi voh zoshoc sed vozuhbiv.",
+    "bio": "Ofgibcid lacubsug vo ofza jeguc zu dicga cezba vite finit ude arisilu un vu. Jo gosrih gasulaf nitkadap liflu mohale rodo ap tajiv bobuvu dobo ohaela. Ufgozoj bed poulaha mun foh fe ni guje wewirduz cibu kujuv zubwav mekuca banetaeb tepi nu ro hema."
+  },
+  "apiKey": "45260cf74c065c6c29d46b2c7dd7309d5930d7d2cd67ac0d8e1083444d844b71",
+  "currency": {
+    "code": "BZD",
+    "name": "Belize Dollar"
+  }
+}
