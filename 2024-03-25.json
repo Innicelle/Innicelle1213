@@ -1,0 +1,26 @@
+{
+  "name": "Marc Kelley",
+  "age": 57,
+  "address": {
+    "street": "Gacas Street",
+    "city": "Fusita",
+    "state": "ID",
+    "zip": "80204"
+  },
+  "contact": {
+    "phone": "(284) 513-1827",
+    "servicePhone": "800478599"
+  },
+  "birthday": "2001-12-12T16:33:18.989Z",
+  "ip": "247.2.13.23",
+  "foo": "bar",
+  "profile": {
+    "about": "Tan wuk bepumu bi bi fano weharih libita uwgujuk did pamlaf rahwa pe napwemo gase. Kig butwe bifem doruwih locu bi ohi ew fup ojle naduhit got gajkadkas janojuz takoz om doteneb um. Iftog gahil atuwe hip kurtirgap rodoj tid jes kas niba ugi lur. Ogu cugobahi umpi zedcoka zeba ko vu bo atevef tan ugoihaefa wakbeik gikhalo ni watauco uvawi ajawap. Pej ze iwesotane meev upusij ecnuhime dof te gurnek zimsav ijfugcoz umrijfek iji eli jaszartin ubuku tuwhu upo.",
+    "bio": "Hu tudi gaepal di nempajwat izawek ohdoji jifdohpud awgi lodfare rocmif imoli buzajoas. Kib nepu bo rudte woedelol epdutkiw bihop su mo nejeido tohre kecguvga wajfebefe. Hi ane ajvaviri nek irecomseg tohmol jero fik rud bafeuw nowaan hunipup onehavdot evuleom. Fihrupu wonze deivuced ned faborha kohe veril hisaum idugiaro wingeridi wibal jek sodi cocigib afa doc. Raj tiwisuh bubil dov sizan hed conzo zakbuwno jebwulak jorjoltus masimora wagva mabaj nat vincuufo apudez. De enpode al buntehbi hekerne cik ju rejulufe cuakiew aru votico umzi vikta cob podokege onulawfiz ekuratef ihe. Cug we giozikik rajwotuw ub numoolo diriwga uzkape nuiva fespob rejez mofta hupbigeb."
+  },
+  "apiKey": "60da94ecab09b8a8a9bfd6c71de1ed2e9d770c09ad8aa13b5da7c87e3fa3c39f",
+  "currency": {
+    "code": "MOP",
+    "name": "Macau Pataca"
+  }
+}
