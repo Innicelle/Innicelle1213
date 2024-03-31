@@ -1,0 +1,26 @@
+{
+  "name": "Leonard Singleton",
+  "age": 37,
+  "address": {
+    "street": "Gufni Turnpike",
+    "city": "Ejoofiz",
+    "state": "IA",
+    "zip": "23285"
+  },
+  "contact": {
+    "phone": "(367) 326-6626",
+    "servicePhone": "800813868"
+  },
+  "birthday": "1979-05-01T06:16:06.182Z",
+  "ip": "105.251.240.123",
+  "foo": "bar",
+  "profile": {
+    "about": "Tipana ecda kilta eduzeb jefcom ebezib ukzol toh nop ole rotazna bussuome ud kersega. Abvu fe bemami cu nuhebo pederdu waplan utisuhoc moeg aji junbojeg zames gibgelag dud ha duf ojebih. Veegawaj sob jelto cal bu joc lubson totfe vikuden wuusoheb akase taofiv hi abhu. Pib odiol gudre linmusa tedba amolut rek tecjuv pivtomit po zadvervi vodurzep hivfeh.",
+    "bio": "Fijjehu kan iwonas fahavoz ezdehul ilmej aplehu sepzoje gid wo woved guw gusan canbicu ron igapep anolafes oge. Rik taptesfob muf di wadmaf mot napu feho jolorfu ca fi kitmem suh oz. Itki zub lepuvri lo falduhvel anefuwij ludcij isisig rudrup inurej kitule amouw ofiupka adrubmib sinekat evje serifena. Voc fevlitaj paznakli hezbuh daganto dic ki uzohal ibumi debajnem is ohuer. Diawu vikulcif zuoz jivzoiwo ra apone beheko et safze zic soulepaw af. Zoba fefuwemu tuwi jubzi fekgev it kufhefpov vogsabjo tima agecudiw ta cavsile kakoga atizuir."
+  },
+  "apiKey": "c935a41a2d9d741ce2dbdd4dc68453dc00fb3e10ede4a4208eb47b517ebbb4ad",
+  "currency": {
+    "code": "GYD",
+    "name": "Guyana Dollar"
+  }
+}
